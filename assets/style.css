@@ -54,7 +54,7 @@ body {
 .picture.left::before {
 	content: ' ';
 	background-color: #E5975F;
-	width: 374px;
+	width: 329px;
 	height: 329px;
 	position: absolute;
 	bottom: 0;
@@ -211,7 +211,7 @@ body {
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
-	width: 374px;
+	width: 329px;
 	height: 329px;
 	position: absolute;
 	bottom: 0;
