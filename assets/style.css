@@ -40,7 +40,7 @@ body {
 #about {
 	display: flex;
 	background-color: #F6D2B8;
-	padding-inline: 100px;
+	padding-inline: 60px;
 	padding-block: 100px;
 	position: relative;
 }
@@ -182,7 +182,7 @@ body {
 	margin: auto;
 	background-color: #D8D3A8 ;
 	position: relative;
-	padding-inline: 100px;
+	padding-inline: 50px;
 	padding-block: 100px;
 }
 #contact .container {
