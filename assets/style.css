@@ -40,7 +40,7 @@ body {
 #about {
 	display: flex;
 	background-color: #F6D2B8;
-	padding-inline: 60px;
+	padding-left: 100px;
 	padding-block: 100px;
 	position: relative;
 }
@@ -62,7 +62,6 @@ body {
 .picture img {
 	width: 100%;
 	max-width: 560px;
-	height: 100%;
 }
 .carousel-item img {
 	width: 100%;
