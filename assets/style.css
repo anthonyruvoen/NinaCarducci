@@ -79,7 +79,7 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	width: 60%;
+	width: 80%;
 }
 #about-me p {
 	width: 80%;
@@ -237,8 +237,8 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
-		width: 100%;
+	#about-me h4, #about-me p {
+		width: 80%;
 	}
 }
 @media all and (max-width: 1000px) {
@@ -295,6 +295,12 @@ input[type="submit"] {
 		right: 0;
 		z-index: -1;
 	}
+	#about-me h4, #about-me p {
+		width: 100%;
+		padding-right: 60px;
+	}
+	form {
+		width: 100%;
 }
 @media all and (max-width: 650px) {
 	.top-header {
@@ -328,5 +334,8 @@ input[type="submit"] {
 	}
 	.picture {
 		width: 80%;
+	}
+	#about-me h4, #about-me p {
+		padding-right: 0;
 	}
 }
